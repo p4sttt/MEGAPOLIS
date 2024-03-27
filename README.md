@@ -9,16 +9,16 @@
 git clone https://github.com/p4sttt/MEGAPOLIS.git
 ```
 
-Что бы запустить решение воспользуйтесь интерпритатором python, который будет находиться в директории ./.venv
+Что бы запустить решение воспользуйтесь интерпритатором python, который будет находиться в директории **./.venv/Scripts/python.exe**
 
 ## Как запустить проект
 
 Выберите задачу, решение который вы желаете проверить и запустить ее с помощь ващего интерпритатора:
-1. solutions/first.py
-2. solutions/second.py
-3. solutions/third.py
-4. solutions/fourth.py
-5. solutions/fiftieth.py
+1. ./solutions/first.py
+2. ./solutions/second.py
+3. ./solutions/third.py
+4. ./solutions/fourth.py
+5. ./solutions/fiftieth.py
 
 
 
