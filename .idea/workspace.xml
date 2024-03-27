@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7786cde6-2c6e-4d11-8c29-de37fd300ee1" name="Changes" comment="update solutions and files" />
+    <list default="true" id="7786cde6-2c6e-4d11-8c29-de37fd300ee1" name="Changes" comment="update README.md file" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,7 +104,7 @@
       <updated>1711541870272</updated>
       <workItem from="1711541871590" duration="631000" />
       <workItem from="1711542530415" duration="4862000" />
-      <workItem from="1711547753375" duration="2138000" />
+      <workItem from="1711547753375" duration="2608000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -122,7 +122,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711549849230</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update README.md file">
+      <option name="closed" value="true" />
+      <created>1711550303960</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1711550303960</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,7 +139,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="update solutions and files" />
-    <option name="LAST_COMMIT_MESSAGE" value="update solutions and files" />
+    <MESSAGE value="update README.md file" />
+    <option name="LAST_COMMIT_MESSAGE" value="update README.md file" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/megapolis$third.coverage" NAME="third Coverage Results" MODIFIED="1711549765080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/solutions" />
