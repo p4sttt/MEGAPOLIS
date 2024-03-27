@@ -12,7 +12,7 @@ def solve_fiftieth():
     history_records = get_history_records_list()
 
     file_heading = ['ID', 'date', 'username', 'verdict']
-    with open('../files/users_with_hash_test.csv', mode='w', encoding='utf-8') as file:
+    with open('../files/users_with_hash.csv', mode='w', encoding='utf-8') as file:
         users_with_hash_reader = writer(file, delimiter=',', lineterminator='\n')
         users_with_hash_reader.writerow(file_heading)
 
